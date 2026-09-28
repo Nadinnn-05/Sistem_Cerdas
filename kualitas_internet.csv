@@ -1,0 +1,11 @@
+kecepatan_download_mbps,ping_ms,packet_loss_persen,status_jaringan
+15,20,0,LANCAR
+2,150,5,LEMOT
+50,10,0,LANCAR
+5,120,3,LEMOT
+30,25,1,LANCAR
+1,200,8,LEMOT
+25,35,0,LANCAR
+3,140,4,LEMOT
+40,15,0,LANCAR
+4,110,2,LEMOT
